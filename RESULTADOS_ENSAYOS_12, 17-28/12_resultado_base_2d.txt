@@ -1,0 +1,18 @@
+=========================================================================
+ REPORTE AUTOMÁTICO DE ENSAYO NEUTRÓNICO INDUSTRIAL COMPACTO (ENSAYO 12)
+ Fecha/Hora de inicio: 2026-10-29 20:23:35
+ Configuración: Li6 al 90.0% | Radio Manto: 150.0 cm | Tapas: 50.0 cm
+ Estadística: 50,000,000 Partículas por librería (70 lotes x 714,285)
+=========================================================================
+
+ ---> LIBRERÍA: [FENDL-3.2] (Tiempo: 2124.35 s)
+ -> TBR Global (n,Xt):              1.29755 +/- 0.00020
+ -> Multiplicación Pb Global (n,2n):0.74196 +/- 0.00013
+ -> Fracción de Fuga (Leakage):     0.00906 +/- 0.00001
+-------------------------------------------------------------------------
+
+ ---> LIBRERÍA: [ENDF-B-VIII.0] (Tiempo: 2128.92 s)
+ -> TBR Global (n,Xt):              1.29894 +/- 0.00020
+ -> Multiplicación Pb Global (n,2n):0.74060 +/- 0.00013
+ -> Fracción de Fuga (Leakage):     0.00981 +/- 0.00002
+-------------------------------------------------------------------------
