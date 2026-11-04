@@ -10,6 +10,9 @@
 / Official Zenodo DOI: https://doi.org/10.5281/zenodo.23883962
 **Transport Engine / Motor de Transporte:** OpenMC v0.15.3 (Constructive Solid Geometry — CSG)  
 **Evaluated Nuclear Data Libraries / Librerías Nucleares:** FENDL-3.2 (IAEA) & ENDF/B-VIII.0  
+> **NOTE / NOTA:**  
+> **EN:** Those who downloaded the documents prior to 04/11/2026 at 17:00h, please take into account that the previously provided DOI was erroneous. The correct DOI is the one currently listed (`https://doi.org/10.5281/zenodo.23883962`).  
+> **ES:** Quienes hayan descargado los documentos antes del día 04/11/2026 a las 17:00h, por favor tengan en cuenta que el DOI proporcionado era erróneo. El DOI correcto es el que figura actualmente (`https://doi.org/10.5281/zenodo.23883962`).
 
 ---
 
