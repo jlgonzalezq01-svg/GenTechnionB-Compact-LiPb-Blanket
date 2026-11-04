@@ -6,7 +6,8 @@
 
 **Author / Autor:** José Luis González Quintana (jlgonzalezq01@gmail.com)  
 **ORCID iD:** [https://orcid.org/0009-0000-6912-3955](https://orcid.org/0009-0000-6912-3955)  
-**Official Repository / Repositorio Oficial:** [https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket](https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket)  
+**Official Repository / Repositorio Oficial:** [https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket](https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket) 
+Official Zenodo DOI: https://doi.org/10.5281/zenodo.23883962
 **Transport Engine / Motor de Transporte:** OpenMC v0.15.3 (Constructive Solid Geometry — CSG)  
 **Evaluated Nuclear Data Libraries / Librerías Nucleares:** FENDL-3.2 (IAEA) & ENDF/B-VIII.0  
 
