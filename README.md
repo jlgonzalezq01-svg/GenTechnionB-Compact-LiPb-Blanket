@@ -5,8 +5,8 @@
 [![Nuclear Data](https://img.shields.io/badge/Libraries-FENDL--3.2%20%7C%20ENDF%2FB--VIII.0-e67e22)]()
 
 **Author / Autor:** José Luis González Quintana (jlgonzalezq01@gmail.com)  
-**ORCID iD:** [https://orcid.org/0009-0000-6912-3955](https://orcid.org/0009-0000-6912-3955)  
-**Official Repository / Repositorio Oficial:** [https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket](https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket) 
+**ORCID iD:** https://orcid.org/0009-0000-6912-3955  
+**Official Repository / Repositorio Oficial:** https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket 
 / Official Zenodo DOI: https://doi.org/10.5281/zenodo.23883962
 **Transport Engine / Motor de Transporte:** OpenMC v0.15.3 (Constructive Solid Geometry — CSG)  
 **Evaluated Nuclear Data Libraries / Librerías Nucleares:** FENDL-3.2 (IAEA) & ENDF/B-VIII.0  
@@ -18,8 +18,8 @@
 
 ## 1. Overview / Resumen del Proyecto `[EN / ES]`
 
-* **`[EN]`** This repository contains the complete source code (`SCRIPTS/`), multi-library statistical transport reports (`RESULTS_Cases_12_17-28/`), spatial radial profiles (`FIGURES_Statistics_and_Curves/`), and plant integration documentation (`DOCUMENTS/`) for the three-dimensional neutronic and thermodynamic validation of the **GenTechnionB v1.0** compact modular fusion reactor (HCLL architecture). Cross-validated with **FENDL-3.2** and **ENDF/B-VIII.0** up to an ultra-high statistics regime of **200 million cumulative particle histories** in the full 3D industrial configuration (**Case 28**), the system sustains a global Tritium Breeding Ratio (**TBR**) of **1.26766 ± 0.00010** (FENDL-3.2) and **1.26733 ± 0.00011** (ENDF/B-VIII.0) under severe structural penetrations (two orthogonal equatorial ports and a physical basal W/CuCrZr/H₂O divertor cassette), while bounding residual nuclear heating in the capillary-cooled superconducting magnets between **414.94 ± 3.16** and **482.80 ± 3.45 eV/source particle** with zero peripheral radial leakage (**0.00000 ± 0.00000**).
-* **`[ES]`** Este repositorio contiene el código fuente completo (`SCRIPTS/`), los reportes estadísticos multilibrería (`RESULTS_Cases_12_17-28/`), los perfiles espaciales radiales (`FIGURES_Statistics_and_Curves/`) y la memoria técnica de integración en planta (`DOCUMENTS/`) correspondientes a la validación neutrónica y termodinámica tridimensional del reactor de fusión modular compacto **GenTechnionB v1.0** (arquitectura HCLL). Evaluado mediante validación cruzada con **FENDL-3.2** y **ENDF/B-VIII.0** hasta un régimen de ultra-alta estadística de **200 millones de historias acumuladas** en el modelo industrial 3D completo (**Ensayo 28**), el sistema sostiene un **TBR global** de **1.26766 ± 0.00010** (FENDL-3.2) y **1.26733 ± 0.00011** (ENDF/B-VIII.0) frente a penetraciones industriales severas (dos puertos ecuatoriales ortogonales y cassette divertor basal físico de W/CuCrZr/H₂O), acotando el calentamiento nuclear en los imanes superconductores refrigerados por red capilar entre **414.94 ± 3.16** y **482.80 ± 3.45 eV/partícula fuente** con fuga radial periférica nula (**0.00000 ± 0.00000**).
+* **`[EN]`** This repository contains the complete source code (`SCRIPTS/`), multi-library statistical transport reports (`RESULTS_Cases_12_17-28/`), spatial radial profiles (`FIGURES_Statistics_and_Curves/`), and plant integration documentation (`DOCUMENTS/` (Bilingual ES-EN) and `DOCUMENTS_English_Edition/` (English-only Journal Edition)) for the three-dimensional neutronic and thermodynamic validation of the **GenTechnionB v1.0** compact modular fusion reactor (HCLL architecture). Cross-validated with **FENDL-3.2** and **ENDF/B-VIII.0** up to an ultra-high statistics regime of **200 million cumulative particle histories** in the full 3D industrial configuration (**Case 28**), the system sustains a global Tritium Breeding Ratio (**TBR**) of **1.26766 ± 0.00010** (FENDL-3.2) and **1.26733 ± 0.00011** (ENDF/B-VIII.0) under severe structural penetrations (two orthogonal equatorial ports and a physical basal W/CuCrZr/H₂O divertor cassette), while bounding residual nuclear heating in the capillary-cooled superconducting magnets between **414.94 ± 3.16** and **482.80 ± 3.45 eV/source particle** with zero peripheral radial leakage (**0.00000 ± 0.00000**).
+* **`[ES]`** Este repositorio contiene el código fuente completo (`SCRIPTS/`), los reportes estadísticos multilibrería (`RESULTS_Cases_12_17-28/`), los perfiles espaciales radiales (`FIGURES_Statistics_and_Curves/`) y la memoria técnica de integración en planta (`DOCUMENTS/` (Bilingual ES-EN) and `DOCUMENTS_English_Edition/` (English-only Journal Edition)) correspondientes a la validación neutrónica y termodinámica tridimensional del reactor de fusión modular compacto **GenTechnionB v1.0** (arquitectura HCLL). Evaluado mediante validación cruzada con **FENDL-3.2** y **ENDF/B-VIII.0** hasta un régimen de ultra-alta estadística de **200 millones de historias acumuladas** en el modelo industrial 3D completo (**Ensayo 28**), el sistema sostiene un **TBR global** de **1.26766 ± 0.00010** (FENDL-3.2) y **1.26733 ± 0.00011** (ENDF/B-VIII.0) frente a penetraciones industriales severas (dos puertos ecuatoriales ortogonales y cassette divertor basal físico de W/CuCrZr/H₂O), acotando el calentamiento nuclear en los imanes superconductores refrigerados por red capilar entre **414.94 ± 3.16** y **482.80 ± 3.45 eV/partícula fuente** con fuga radial periférica nula (**0.00000 ± 0.00000**).
 
 ---
 
@@ -58,8 +58,8 @@
 
 ## 4. Official Repository & Authorship Priority / Repositorio Oficial y Prioridad de Autoría
 
-* **Author:** José Luis González Quintana — ORCID: [https://orcid.org/0009-0000-6912-3955](https://orcid.org/0009-0000-6912-3955)
-* **Repository URL:** [https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket](https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket)
+* **Author:** José Luis González Quintana — ORCID: https://orcid.org/0009-0000-6912-3955
+* **Repository URL:** https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket
 * **Clone command:**
   ```bash
   git clone https://github.com/jlgonzalezq01-svg/GenTechnionB-Compact-LiPb-Blanket.git
