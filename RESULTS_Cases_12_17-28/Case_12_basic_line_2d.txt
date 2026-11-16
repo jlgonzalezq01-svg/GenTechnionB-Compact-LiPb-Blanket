@@ -1,0 +1,18 @@
+=========================================================================
+ AUTOMATED COMPACT INDUSTRIAL NEUTRONIC VALIDATION REPORT (CASE 12)
+ Start Date/Time: 2026-10-29 20:23:35
+ Configuration: 90.0% 6Li | Blanket Radius: 150.0 cm | Axial End Caps: 50.0 cm
+ Statistics: 50,000,000 Particles per library (70 batches x 714,285)
+=========================================================================
+
+ ---> LIBRARY: [FENDL-3.2] (Runtime: 2124.35 s)
+ -> Global TBR (n,Xt):               1.29755 +/- 0.00020
+ -> Global Pb Multiplication (n,2n): 0.74196 +/- 0.00013
+ -> Leakage Fraction (Leakage):      0.00906 +/- 0.00001
+-------------------------------------------------------------------------
+
+ ---> LIBRARY: [ENDF-B-VIII.0] (Runtime: 2128.92 s)
+ -> Global TBR (n,Xt):               1.29894 +/- 0.00020
+ -> Global Pb Multiplication (n,2n): 0.74060 +/- 0.00013
+ -> Leakage Fraction (Leakage):      0.00981 +/- 0.00002
+-------------------------------------------------------------------------
